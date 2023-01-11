@@ -6,8 +6,8 @@ A bridge has only one road and cars can go from north to south or from south to 
 
 ## Technologies
 Project was created with:
-* Java JDK 17 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-* I use NetBeans IDE 12.4 https://netbeans.apache.org/download/nb14/nb14.html
+* [Java JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+* I use [NetBeans IDE 12.4](https://netbeans.apache.org/download/nb14/nb14.html)
 
 ## How to run this project?
 * Download repository and run CochesPrioridad.java file
